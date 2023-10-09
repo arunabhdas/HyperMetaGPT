@@ -32,3 +32,8 @@ On mac, install mermaid-js as below
 npm install -g @mermaid-js/mermaid-cli
 ```
 
+Use requirements.txt or setup.py to install package dependencies
+
+```
+python setup.py install
+```
