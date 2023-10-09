@@ -22,5 +22,13 @@ conda activate metagpt
 
 
 ```
+npm --version
 node --version
 ```
+
+On mac, install mermaid-js as below
+
+```
+npm install -g @mermaid-js/mermaid-cli
+```
+
